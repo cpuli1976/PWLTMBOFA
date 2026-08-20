@@ -1,4 +1,4 @@
-import{test,expect} from'../fixtures/Loginpage';
+import{test,expect} from'../../fixtures/Loginpage';
 
 
 test ('Login fixture', async({logInPage})=>{
